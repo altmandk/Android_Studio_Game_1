@@ -1,7 +1,6 @@
 package com.example.myfirstgame;
 
 import android.graphics.Canvas;
-import android.view.Surface;
 import android.view.SurfaceHolder;
 
 
